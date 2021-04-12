@@ -57,10 +57,10 @@
 
 <table style="width:100%; table-layout:fixed"">
 <tr>
-<th>  Contaminación acústica(día, tarde, noche, industrial, tráfico rodado) </th>
-<th> Contrataciones, licitaciones y proveedores de servicios municipales </th> 
-<th>  Convenios </th>
-<th> Deuda pública del ayuntamiento </th>
+<th style="width:50px">Contaminación acústica(día, tarde, noche, industrial, tráfico rodado) </th>
+<th style="width:50px">Contrataciones, licitaciones y proveedores de servicios municipales </th> 
+<th style="width:50px">Convenios </th>
+<th style="width:50px"> Deuda pública del ayuntamiento </th>
 </tr>
 <tr>
         <td style="width:50px">
