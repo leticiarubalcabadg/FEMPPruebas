@@ -2,7 +2,7 @@
 
 ## Bienvenido a los vocabularios
 
-<table style="width:100%">
+<table style="width:250px">
 <tr>
 <th>  Agenda municipal alcaldía y personal directivo </th>
 <th> Agenda de actividades y eventos </th>
@@ -29,10 +29,10 @@
 
 <table style="width:100%">
 <tr>
-<th>  Bicileta pública </th>
-<th> Calidad del aire </th>
-<th>  Callejero oficial del Ayuntamiento </th>
-<th> Censo de locales, actividades, terrazas de hostelería y restauración y licencias de apertura </th>
+<th style="width:50px">  Bicileta pública </th>
+<th style="width:50px"> Calidad del aire </th>
+<th style="width:50px">  Callejero oficial del Ayuntamiento </th>
+<th style="width:50px"> Censo de locales, actividades, terrazas de hostelería y restauración y licencias de apertura </th>
 </tr>
 <tr>
         <td style="width:50px">
@@ -44,7 +44,7 @@
         <td style="width:50px">
        <a href="https://leticiarubalcabadg.github.io/FEMPCALLEJERO"> <img src="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS" alt="Logo CiudadesInteligentes" width="150"/> </a>
         </td>
-        <td>
+        <td style="width:50px">
        <a href="https://leticiarubalcabadg.github.io/FEMPCENSO"> <img src="https://ciudadesabiertas.es/assets/img/cabiertas/unionEuropea-logo.svg" alt="Logo UnionEuropea" width="200" /> </a>
         </td>
 </tr>
@@ -71,7 +71,7 @@
         <td style="width:50px">
        <a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="https://leticiarubalcabadg.github.io/FEMAPARCAIENTOS" alt="Logo CiudadesInteligentes" width="150" /> </a>
         </td>
-        <td>
+        <td style="width:50px">
        <a href="https://leticiarubalcabadg.github.io/FEMPDEUDAPÚBLICA"> <img src="https://ciudadesabiertas.es/assets/img/cabiertas/unionEuropea-logo.svg" alt="Logo UnionEuropea" width="200" /> </a>
         </td>
 </tr>
