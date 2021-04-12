@@ -2,7 +2,7 @@
 
 ## Bienvenido a los vocabularios
 
-<table style="width:250px">
+<table style="width:100%; table-layout:fixed">
 <tr>
 <th>  Agenda municipal alcaldía y personal directivo </th>
 <th> Agenda de actividades y eventos </th>
@@ -27,7 +27,7 @@
 
 
 
-<table style="width:100%">
+<table style="width:100%; table-layout:fixed">
 <tr>
 <th style="width:50px">  Bicileta pública </th>
 <th style="width:50px"> Calidad del aire </th>
