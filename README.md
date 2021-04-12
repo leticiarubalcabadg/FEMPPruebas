@@ -1,3 +1,5 @@
+<link href="stylesheet.css" rel="stylesheet"></link>
+
 ## Bienvenido a los vocabularios
 
 <table>
