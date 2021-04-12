@@ -11,7 +11,7 @@
 </tr>
 <tr>
         <td>
-        <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200" /> 
+        <a href="https://www.w3schools.com"><img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200" /> </a>
         </td>
         <td>
         <img src="https://ciudadesabiertas.es/assets/img/cabiertas/red-logo.svg" alt="Logo red.es" width="150"/>
