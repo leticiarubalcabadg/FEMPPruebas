@@ -1,4 +1,4 @@
-<link href="stylesheet.css" rel="stylesheet"></link>
+<link href="stylesheet.css" rel="stylesheet"/>
 
 ## Bienvenido a los vocabularios
 
