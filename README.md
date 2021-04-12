@@ -2,11 +2,13 @@
 
 ## Bienvenido a los vocabularios
 ![Prueba](129854.jpg)
+
 <html>
+<link rel="stylesheet" type="text/css" media="all" href="stylesheet.css" />
+        
 <table id="t01">
         <tr>
-                <td></html>    ![Prueba](129854.jpg)
-        <html>
+                <td> <img src="129854.jpg"  alt="1" width = 360px height = 640px >     
                     Agenda municipal alcaldía y personal directivo</td>          
             <td>Agenda de actividades y eventos</td>            
             <td>Aparcamientos públicos</td>            
