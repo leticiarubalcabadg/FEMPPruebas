@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="stylesheet.css" />
 
 ## Bienvenido a los vocabularios
-
+![Prueba](129854.jpg)
 <table id="t01">
         <tr>
             <td>    ![Prueba](129854.jpg)
