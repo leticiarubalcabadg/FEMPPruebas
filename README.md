@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<th>  HAgenda municipal alcaldía y personal directivo </th>
+<th>  Agenda municipal alcaldía y personal directivo </th>
 <th> Agenda de actividades y eventos </th>
 <th>  Aparcamientos públicos </th>
 <th> Avisos, sugerencias, quejas, y reclamaciones </th>
