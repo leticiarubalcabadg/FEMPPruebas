@@ -1,4 +1,11 @@
-table, th, td {
+table{
+    table-layout: fixed;
+    width: 250px;
   font-size: 15px;
-  
+}
+
+th, td {
+    width: 100px;
+    word-wrap: break-word;
+  font-size: 15px;
 }
