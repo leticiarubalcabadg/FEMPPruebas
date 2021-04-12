@@ -55,7 +55,7 @@
 
 
 
-<table style="width:100%; table-layout:fixed"">
+<table style="width:100%; table-layout:fixed">
 <tr>
 <th style="width:50px">Contaminación acústica(día, tarde, noche, industrial, tráfico rodado) </th>
 <th style="width:50px">Contrataciones, licitaciones y proveedores de servicios municipales </th> 
