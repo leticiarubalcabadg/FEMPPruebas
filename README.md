@@ -5,8 +5,7 @@
 <html>
 <link rel="stylesheet" type="text/css" media="all" href="stylesheet.css" />
         
-<table border-collapse=collapse>
-        <tbody>
+<table>
         <tr>
                 <td border=none> <img src="129854.jpg"  alt="1" width = 360px height = 640px >     
                     Agenda municipal alcaldía y personal directivo</td>          
@@ -22,21 +21,9 @@
         </tr>        
         <tr>
         </tr>
-                </tbody>
 </table>
 
 </html>
 
 
-<table>
-  <tr>
-    <td>100</td>
-    <td>200</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>400</td>
-    <td>500</td>
-    <td>600</td>
-  </tr>
-</table>
+
