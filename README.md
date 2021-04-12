@@ -57,7 +57,7 @@
 <table style="width:100%; table-layout:fixed"">
 <tr>
 <th>  Contaminación acústica(día, tarde, noche, industrial, tráfico rodado) </th>
-<th> Contrataciones, licitaciones y proveedores de servicios municipales </th> AQIOOOOOOOO
+<th> Contrataciones, licitaciones y proveedores de servicios municipales </th> 
 <th>  Convenios </th>
 <th> Deuda pública del ayuntamiento </th>
 </tr>
@@ -66,7 +66,7 @@
         <a href="https://leticiarubalcabadg.github.io/FEMPCONTAMINACION/"><img src="Iconos/megafono.png" alt="Contaminación" width="150" /> </a>
         </td>
         <td style="width:50px">
-          <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="https://leticiarubalcabadg.github.io/FEMPAGENDAACTIVIDADES/" alt="Contrataciones" width="150"/></a>
+          <a href="https://leticiarubalcabadg.github.io/FEMPCONTRATACIONES/"><img src="Iconos/dosier.png" alt="Contrataciones" width="150"/></a>
         </td>
         <td style="width:50px">
        <a href="https://leticiarubalcabadg.github.io/FEMPCONVENIOS"> <img src="Iconos/darse-la-mano.png" alt="Convenios" width="150" /> </a>
