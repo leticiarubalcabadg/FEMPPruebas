@@ -2,9 +2,11 @@
 
 ## Bienvenido a los vocabularios
 ![Prueba](129854.jpg)
+<html>
 <table id="t01">
         <tr>
-            <td>    ![Prueba](129854.jpg)
+                <td></html>    ![Prueba](129854.jpg)
+        <html>
                     Agenda municipal alcaldía y personal directivo</td>          
             <td>Agenda de actividades y eventos</td>            
             <td>Aparcamientos públicos</td>            
@@ -19,3 +21,5 @@
         <tr>
         </tr>
 </table>
+
+</html>
