@@ -4,7 +4,7 @@
 
 <table id="t01">
         <tr>
-            <td>    ![Image Alt-Text](agenda.jpg)
+            <td>    ![Prueba](129854.jpg)
                     Agenda municipal alcaldía y personal directivo</td>          
             <td>Agenda de actividades y eventos</td>            
             <td>Aparcamientos públicos</td>            
